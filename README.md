@@ -27,4 +27,6 @@
 ---
 
 ## 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/Jahnavi-Mittal
+- LinkedIn: www.linkedin.com/in/jahnavi-mittal-cse
+
+
