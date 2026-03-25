@@ -21,7 +21,7 @@
 ---
 
 ## 📈 Currently Working On
-- Practicing DSA
+- Practicing EDA
 - Building small projects
 
 ---
