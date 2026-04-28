@@ -10,6 +10,7 @@
 - C Programming
 - Python (Beginner)
 - Git & GitHub
+- sql
 
 ---
 
