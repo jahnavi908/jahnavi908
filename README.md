@@ -22,8 +22,9 @@
 ---
 
 ## 📈 Currently Working On
-- Practicing EDA
+- Practicing EDA and sklearn 
 - Building small projects
+  
 
 ---
 
