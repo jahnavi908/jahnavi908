@@ -1,7 +1,7 @@
 # Hi, I'm Jahnavi 👋
 
 🎓 BTech Student  
-💻 Currently learning C, Python, Git 
+💻 Currently learning C, Python, Github, C++
 🚀 Interested in Web Development & AI  
 
 ---
